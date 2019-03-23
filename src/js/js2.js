@@ -1,0 +1,1 @@
+console.log('Loading js file 2')
